@@ -1,17 +1,20 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0C,100:38BDF8&height=220&section=header&text=Rai%20Farhan&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20Machine%20Learning%20Developer&descAlignY=55&descSize=20" width="100%"/>
+<!-- HEADER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090D16,50:0284C7,100:38BDF8&height=220&section=header&text=Rai%20Farhan&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20%26%20Machine%20Learning%20Engineer&descAlignY=58&descSize=19" width="100%" alt="Header Banner" />
 
+<!-- TYPING ANIMATION -->
 <a href="https://github.com/RaiFarhan0">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=AI+%26+Machine+Learning+Developer;Computer+Vision+%26+Deep+Learning+Pipelines;Autonomous+Multi-Agent+Systems;Full-Stack+AI+Application+Engineering;Turning+Research+Papers+Into+Production+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=620&lines=AI+%26+Machine+Learning+Engineer;Computer+Vision+%26+Deep+Learning+Pipelines;Autonomous+Multi-Agent+Architectures;Full-Stack+AI+Product+Engineering;Low-Latency+Real-Time+Inference" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=RaiFarhan0&label=Profile%20Views&color=38BDF8&style=for-the-badge" alt="profile views" />
-<a href="https://github.com/RaiFarhan0?tab=followers"><img src="https://img.shields.io/github/followers/RaiFarhan0?label=Followers&logo=github&style=for-the-badge&color=181717" alt="followers" /></a>
-<a href="https://linkedin.com/in/raifarhan"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
-<a href="mailto:raifarhan@example.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
+<!-- SOCIAL & METRIC PILLS -->
+[![Profile Views](https://komarev.com/ghpvc/?username=RaiFarhan0&label=PROFILE%20VIEWS&color=0284C7&style=for-the-badge)](https://github.com/RaiFarhan0)
+[![Followers](https://img.shields.io/github/followers/RaiFarhan0?label=FOLLOWERS&logo=github&style=for-the-badge&color=0f172a)](https://github.com/RaiFarhan0?tab=followers)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/raifarhan)
+[![Email](https://img.shields.io/badge/EMAIL-DIRECT%20CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact.raifarhan@gmail.com)
 
 </div>
 
@@ -19,178 +22,134 @@
 
 ### 👨‍💻 About Me
 
-I build **end-to-end AI systems** — from the model architecture to the pixel-perfect UI that ships it. My work sits at the intersection of **computer vision**, **multimodal RAG**, and **autonomous multi-agent orchestration**, engineered for real production constraints: low latency, scalable inference, and clean UX.
-
 ```python
 class RaiFarhan:
     def __init__(self):
-        self.role = "AI/ML Developer & Automation Engineer"
-        self.based_in = "Pakistan 🇵🇰"
-        self.focus = [
-            "Computer Vision", 
-            "Multimodal RAG", 
-            "Agentic AI", 
-            "Full-Stack AI Apps"
+        self.name = "Rai Farhan"
+        self.role = "AI/ML Engineer & Systems Architect"
+        self.location = "Pakistan 🇵🇰"
+        self.core_domains = [
+            "Computer Vision & Edge AI",
+            "Multimodal RAG & Document Intelligence",
+            "Autonomous Multi-Agent Systems",
+            "Full-Stack AI Application Engineering"
         ]
-        self.currently_building = (
-            "Autonomous Multi-Agent BI Systems & Real-Time Edge Vision Models"
-        )
-        self.client_base = "International 🌍"
+        self.current_focus = "Autonomous Multi-Agent BI Systems & Real-Time Low-Latency Vision"
+        self.mission = "Turning complex AI research into production-grade, pixel-perfect software."
 
-    def ask_me_about(self):
-        return [
-            "PyTorch model architectures",
-            "Speech diarization pipelines",
-            "Vision-grounded document extraction",
-            "Multi-agent orchestration (CrewAI, LangChain)",
-            "Browser automation (Selenium, Playwright)"
-        ]
-
-    def coffee_or_code(self):
-        return "both, simultaneously"
+    def get_superpowers(self):
+        return {
+            "Vision": ["YOLOv8", "MediaPipe 3D", "OpenCV", "ONNX Runtime (<15ms)"],
+            "LLMs & Agents": ["Gemini 2.5", "Azure OpenAI", "CrewAI", "LangChain"],
+            "Full-Stack": ["FastAPI", "Next.js 14", "TypeScript", "Streamlit", "Docker"]
+        }
 ```
 
-- 🔭 **Currently Building:** Autonomous Multi-Agent BI Systems, Real-Time Edge Vision Models, and **NightCast** — a cinematic streaming discovery app *(Next.js 14 + TypeScript + Tailwind + Framer Motion)*.
-- 🌱 **Currently Exploring:** Agentic IDEs *(Google Antigravity)*, local inference with Ollama, and Google Spark.
-- ⚡ **Core Strengths:** Computer Vision *(YOLOv8, MediaPipe, OpenCV)*, Multimodal RAG *(Gemini 2.5, Vector DBs)*, Low-Latency APIs *(FastAPI, WebSockets, ONNX Runtime)*, and Multi-Agent Pipelines *(CrewAI, LangChain)*.
-- 🎯 **2026 Goal:** Scale international freelance client base past the Fiverr grind — Contra, LinkedIn outreach, and a portfolio that closes deals on its own.
-- ⚡ **Fun Fact:** I debug neural nets with the same intensity I watch psychological thrillers — always looking for the twist in the loss curve.
+- 🔭 **Currently Building:** Autonomous Multi-Agent BI Systems, Real-Time Edge Vision Models, and **NightCast** *(Cinematic streaming discovery platform with Next.js 14, Tailwind, and Framer Motion)*.
+- ⚡ **Core Philosophy:** High-throughput performance, sub-15ms real-time pipelines, and clean, cinematic UI/UX.
+- 🎯 **2026 Focus:** Scaling international client partnerships across computer vision, agentic pipelines, and full-stack AI applications.
+- 💬 **Ask Me About:** Real-time gesture recognition, multimodal document QA, speaker diarization, and multi-agent coordination.
 
 ---
 
-### 🛠️ Tech Stack & Tooling
+### 🛠️ Tech Stack & Architecture Arsenal
 
 <div align="center">
 
-#### 🧠 AI, Deep Learning & Vision
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=ultralytics&logoColor=black)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white)
-![ONNX Runtime](https://img.shields.io/badge/ONNX_Runtime-005CED?style=for-the-badge&logo=onnx&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-#### 🤖 Agentic & LLM Orchestration
-![Google Gemini](https://img.shields.io/badge/Google_Gemini_2.5-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![CrewAI](https://img.shields.io/badge/CrewAI-FF4F00?style=for-the-badge&logo=robot&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge&logo=database&logoColor=white)
-
-#### 🌐 Web, API & Application Frameworks
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Next.js 14](https://img.shields.io/badge/Next.js_14-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
-
-#### 🤖 Automation & Scraping
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup4-59666C?style=for-the-badge&logo=python&logoColor=white)
-![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
-
-#### 🗄️ DevOps, Cloud & Databases
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+| Domain | Technologies & Frameworks |
+| :--- | :--- |
+| **🧠 Deep Learning & Vision** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white) ![ONNX Runtime](https://img.shields.io/badge/ONNX_Runtime-005CED?style=flat-square&logo=onnx&logoColor=white) ![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logo=ultralytics&logoColor=black) |
+| **🤖 LLMs, RAG & Multi-Agent** | ![Google Gemini](https://img.shields.io/badge/Gemini_2.5-4285F4?style=flat-square&logo=google&logoColor=white) ![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) ![CrewAI](https://img.shields.io/badge/CrewAI-FF4F00?style=flat-square&logo=robot&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white) |
+| **🌐 Full-Stack & APIs** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Next.js 14](https://img.shields.io/badge/Next.js_14-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) |
+| **⚡ Automation & Scraping** | ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white) ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-59666C?style=flat-square&logo=python&logoColor=white) ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white) |
+| **🗄️ Cloud, DB & DevOps** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
 
 </div>
 
 ---
 
-### 🚀 Featured Repositories
-
-| Repository | Focus & Highlights | Tech Stack |
-| :--- | :--- | :--- |
-| [**`DataPulse-AI`**](https://github.com/RaiFarhan0/DataPulse-AI) | ⚡ **Autonomous AI Data Analyst & BI Agent**<br>Autonomous dataset ingestion, self-healing Python code sandbox, interactive Plotly visualizations, and C-suite executive reporting. | `Python` `Streamlit` `Gemini` `Plotly` `Docker` |
-| [**`DocuPulse-AI`**](https://github.com/RaiFarhan0/DocuPulse-AI) | 📑 **Multimodal Document Intelligence & Vision RAG**<br>Layout-aware PDF parsing, bounding box table/figure extraction, and zero-hallucination visual citation grounding. | `Python` `Gemini Vision` `Streamlit` `Vector DB` |
-| [**`VoicePulse-AI`**](https://github.com/RaiFarhan0/VoicePulse-AI) | 🎙️ **Autonomous Voice & Meeting Intelligence Studio**<br>Multi-speaker diarization, automatic Action Item / MoM extraction, and grounded timestamp citation Q&A copilot. | `Python` `Gemini Audio` `Streamlit` `Diarization` |
-| [**`SignAi`**](https://github.com/RaiFarhan0/SignAi) | 👁️ **Real-Time ASL Sign Language to Speech System**<br>MediaPipe 3D landmark tracking, sub-15ms WebSocket inference engine, and real-time text-to-speech translation, trained on the ASL Alphabet dataset. | `Python` `PyTorch` `MediaPipe` `FastAPI` `ONNX` |
-| [**`NightCast`**](https://github.com/RaiFarhan0) | 🎬 **Cinematic Streaming Discovery App**<br>Dark cinematic UI with glassmorphism and Ken Burns carousels, legal architecture via TMDB metadata, Internet Archive public-domain playback, and deep-linking to licensed platforms. | `Next.js 14` `TypeScript` `Tailwind` `Framer Motion` |
-| [**`TruthLens`**](https://github.com/RaiFarhan0) | 🔍 **Four-Agent Fact-Checking Pipeline**<br>Built for the Microsoft Agents League Hackathon — Azure OpenAI + CrewAI orchestration targeting Best Reasoning Agent and Hack for Good tracks. | `Python` `Azure OpenAI` `CrewAI` |
-| [**`SENTINEL-AI`**](https://github.com/RaiFarhan0) | 📹 **YOLOv8 CCTV Anomaly Detection**<br>Real-time surveillance anomaly detection with live Socket.IO alerting dashboard. | `Python` `YOLOv8` `Flask` `Socket.IO` |
-
----
-
-### 📊 GitHub Activity & Insights
+### 🚀 Flagship Projects & Engineering Case Studies
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RaiFarhan0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Rai Farhan's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaiFarhan0&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</div>
 
-<div align="center" style="margin-top: 15px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RaiFarhan0&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
-</div>
+| Project | Overview & Engineering Impact | Key Technologies | Status |
+| :--- | :--- | :--- | :---: |
+| [**`DataPulse-AI`**](https://github.com/RaiFarhan0/DataPulse-AI) | **Autonomous AI Data Analyst & BI Agent**<br>Autonomous dataset ingestion, self-healing Python execution sandbox, interactive Plotly charts, and executive C-suite summary synthesis. | `Python` `Gemini 2.5` `Streamlit` `Plotly` `Docker` | ![Active](https://img.shields.io/badge/Production-Ready-22C55E?style=flat-square) |
+| [**`DocuPulse-AI`**](https://github.com/RaiFarhan0/DocuPulse-AI) | **Multimodal Vision RAG & Document Intelligence**<br>Layout-aware PDF parsing, bounding box table/figure extraction, and zero-hallucination visual citation grounding. | `Python` `Gemini Vision` `Streamlit` `Vector DB` | ![Active](https://img.shields.io/badge/Production-Ready-22C55E?style=flat-square) |
+| [**`VoicePulse-AI`**](https://github.com/RaiFarhan0/VoicePulse-AI) | **Autonomous Meeting & Audio Intelligence**<br>Multi-speaker diarization, timestamped action-item extraction, interactive audio Q&A copilot, and automated board-ready MoMs. | `Python` `Gemini Audio` `Streamlit` `Diarization` | ![Active](https://img.shields.io/badge/Production-Ready-22C55E?style=flat-square) |
+| [**`SignAi`**](https://github.com/RaiFarhan0/SignAi) | **Real-Time ASL Gesture to Speech Engine**<br>MediaPipe 3D landmark tracking with sub-15ms WebSocket inference and automated neural text-to-speech translation. | `PyTorch` `MediaPipe` `FastAPI` `ONNX` `WebSockets` | ![Active](https://img.shields.io/badge/Production-Ready-22C55E?style=flat-square) |
+| [**`NightCast`**](https://github.com/RaiFarhan0) | **Cinematic Streaming & Media Discovery Platform**<br>Dark cinematic UI with glassmorphism, dynamic Ken Burns carousel, TMDB metadata architecture, and legal streaming deep-links. | `Next.js 14` `TypeScript` `Tailwind` `Framer Motion` | ![In Dev](https://img.shields.io/badge/In%20Development-F59E0B?style=flat-square) |
+| [**`TruthLens`**](https://github.com/RaiFarhan0) | **Multi-Agent Autonomous Fact-Checking Pipeline**<br>Engineered for Microsoft Agents League Hackathon using Azure OpenAI + CrewAI multi-agent reasoning. | `CrewAI` `Azure OpenAI` `Python` `RAG` | ![Hackathon](https://img.shields.io/badge/Hackathon%20Finalist-8B5CF6?style=flat-square) |
+| [**`SENTINEL-AI`**](https://github.com/RaiFarhan0) | **Real-Time CCTV Anomaly Detection Engine**<br>Computer vision pipeline with live WebSocket alert streaming and security telemetry dashboard. | `Python` `YOLOv8` `Flask` `Socket.IO` `OpenCV` | ![Archived](https://img.shields.io/badge/Completed-64748B?style=flat-square) |
 
-<div align="center" style="margin-top: 15px;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RaiFarhan0&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="97%" />
-</div>
-
-<div align="center" style="margin-top: 15px;">
-  <img src="https://github-profile-trophy.vercel.app/?username=RaiFarhan0&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" width="97%" />
 </div>
 
 ---
 
-### 🗺️ My Journey
+### 📈 GitHub Analytics & Activity
+
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=RaiFarhan0&show_icons=true&theme=tokyonight&hide_border=true&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8&bg_color=090D16" alt="GitHub Stats" width="100%" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaiFarhan0&layout=compact&theme=tokyonight&hide_border=true&title_color=38BDF8&text_color=94A3B8&bg_color=090D16" alt="Top Languages" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=RaiFarhan0&theme=tokyonight&hide_border=true&stroke=38BDF8&background=090D16&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak" width="100%" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🗺️ Developer Journey & Milestones
 
 ```
-2024 ── Started with SENTINEL AI (YOLOv8 CCTV anomaly detection) + Text-to-Handwriting AI
-       │ First steps into computer vision & TensorFlow
+2024 ── Started with SENTINEL AI (YOLOv8 CCTV Anomaly Detection) & Computer Vision fundamentals
+       │ Built initial deep learning pipelines with OpenCV & TensorFlow
        │
-2025 ── Fiverr presence built around CV & automation gigs
+2025 ── Delivered client solutions in Computer Vision & Web Automation
        │ Pursued 42 School (Berlin/Paris) admission track
-       │ Explored truck dispatching & FMCSA lead-gen automation
+       │ Engineered high-throughput lead-generation & scraping engines
        │
-2026 ── Shipped TruthLens (multi-agent fact-checker) for MS Agents League Hackathon
-       │ Conceptualized InboxZero AI (email intelligence SaaS)
-       │ Built DocuPulse AI, VoicePulse AI, SignSpeak AI portfolio suite
-       │ Building NightCast — cinematic streaming discovery app (Phase 3: live APIs)
-       │ Pivoted freelance strategy → Contra, LinkedIn outreach, Discord networking
+2026 ── Shipped TruthLens (Multi-Agent Fact Checker) for MS Agents League Hackathon
+       │ Built DocuPulse AI, VoicePulse AI, & SignSpeak AI production portfolio
+       │ Developing NightCast (Cinematic Streaming Discovery Architecture)
+       │ Scaling international contract & freelance partnerships
        ▼
-Currently: Scaling international client base, one clean commit at a time.
+[Current]: Engineering resilient, production-grade AI applications with low-latency inference.
 ```
 
 ---
 
-### 🏆 Highlights
+### 🏆 Core Highlights
 
-- 🥇 **Hackathon Competitor**: Built a 4-agent CrewAI + Azure OpenAI fact-checking pipeline for a national hackathon.
-- 🎯 **Ultra Low-Latency**: Delivered production-grade real-time inference systems (sub-15ms WebSocket vision pipelines).
-- 🧩 **End-to-End AI Products**: Designed and shipped multiple full-stack AI SaaS concepts from architecture docs to production-ready deployments.
-- 🎬 **High-Craft UI/UX**: Obsessive about cinematic, glassmorphic interfaces — no generic templates, ever.
+- 🥇 **Multi-Agent Systems**: Built complex multi-agent architectures (CrewAI + Azure OpenAI) for hackathon reasoning benchmarks.
+- ⚡ **Ultra Low-Latency Inference**: Engineered sub-15ms real-time vision pipelines with MediaPipe, ONNX Runtime, and WebSockets.
+- 📑 **Multimodal Document AI**: End-to-end vision RAG systems with grounded page-level bounding box visual citations.
+- 🎨 **Cinematic UI/UX Craft**: Dedicated to responsive, modern interfaces (Tailwind, Framer Motion, Streamlit customized themes).
 
 ---
 
-### 📫 Let's Build Something
+### 🤝 Let's Build Something Impactful
 
 <div align="center">
 
-**I'm open to international freelance & contract work in computer vision, multi-agent AI systems, and full-stack AI product builds.**
+**I'm available for international freelance contracts, technical consulting, and full-stack AI engineering roles.**
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/RaiFarhan0)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rai%20Farhan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/raifarhan)
-[![Contra](https://img.shields.io/badge/Contra-Hire%20Me-FF5C00?style=for-the-badge&logo=contra&logoColor=white)](https://contra.com/raifarhan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rai%20Farhan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/raifarhan)
 [![GitHub](https://img.shields.io/badge/GitHub-RaiFarhan0-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RaiFarhan0)
-[![Email](https://img.shields.io/badge/Email-raifarhan%40example.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raifarhan@example.com)
+[![Contra](https://img.shields.io/badge/Contra-Hire%20Me-FF5C00?style=for-the-badge&logo=contra&logoColor=white)](https://contra.com/raifarhan)
+[![Email](https://img.shields.io/badge/Email-Direct%20Inquiry-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact.raifarhan@gmail.com)
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:0A0A0C&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:0284C7,100:090D16&height=120&section=footer" width="100%" alt="Footer Banner" />
 
 </div>
