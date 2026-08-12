@@ -22,31 +22,13 @@
 
 ### 👨‍💻 About Me
 
-```python
-class RaiFarhan:
-    def __init__(self):
-        self.name = "Rai Farhan"
-        self.role = "AI & Machine Learning Developer"
-        self.location = "Pakistan 🇵🇰"
-        self.focus_areas = [
-            "Computer Vision (Real-Time Landmark Tracking & Edge AI)",
-            "Multimodal Vision RAG & Document Intelligence",
-            "Autonomous Speech Diarization & Audio Analytics",
-            "Autonomous Multi-Agent BI Systems"
-        ]
-        self.mission = "Transforming state-of-the-art AI into low-latency, production-ready applications."
+I am an **AI & Machine Learning Engineer** specializing in **real-time Computer Vision**, **Multimodal Document Intelligence**, and **Autonomous Agentic Systems**. I bridge the gap between cutting-edge AI models and production software — building fast, low-latency, and reliable systems with polished user experiences.
 
-    def get_stack(self):
-        return {
-            "Vision_DeepLearning": ["Python", "PyTorch", "OpenCV", "MediaPipe", "ONNX Runtime"],
-            "LLMs_Multimodal": ["Google Gemini 2.5", "LangChain", "Vector DBs"],
-            "Application_Deployment": ["FastAPI", "Streamlit", "WebSockets", "Docker"]
-        }
-```
-
-* 🔭 **Specialization:** Building real-time computer vision inference pipelines, multimodal document intelligence, and autonomous AI agents.
-* ⚡ **Performance Focus:** Low-latency inference (sub-15ms WebSocket pipelines), zero-hallucination grounded citations, and self-healing analysis code.
-* 💬 **Ask Me About:** Real-time sign language recognition, PDF layout parsing, speaker diarization, and automated data science agents.
+- 👁️ **Computer Vision & Edge AI:** Real-time 3D landmark tracking, hand gesture recognition, and ONNX Runtime inference (<15ms).
+- 📑 **Multimodal Vision RAG:** Layout-aware document comprehension with spatial bounding box extractions and grounded citations.
+- 🎙️ **Audio Intelligence & Diarization:** Automated meeting transcription, speaker diarization, and executive action-item extraction.
+- ⚡ **Autonomous Multi-Agent BI:** Self-healing Python code sandboxes and automated exploratory data analysis engines.
+- 🌍 **Location:** Pakistan 🇵🇰 • Available for International Freelance & Contract Opportunities.
 
 ---
 
