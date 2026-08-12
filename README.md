@@ -84,9 +84,8 @@ I specialize in building **end-to-end computer vision pipelines**, **multimodal 
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/RaiFarhan0)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rai%20Farhan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/raifarhan)
+
 [![GitHub](https://img.shields.io/badge/GitHub-RaiFarhan0-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RaiFarhan0)
-[![Gmail](https://img.shields.io/badge/Gmail-raifarhan%40example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raifarhan@example.com)
+[![Gmail](https://img.shields.io/badge/Gmail-raifarhan%40example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raifarhan000@gmail.com)
 
 </div>
