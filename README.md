@@ -63,7 +63,6 @@
 ## `~/about`
 
 ```text
-┌─[ rai@ai-lab ]─[ ~/about ]
 │
 ├──> AI / ML Engineer building practical, high-throughput AI systems
 ├──> Real-time Computer Vision pipelines & landmark tracking
@@ -142,33 +141,6 @@ I am an **AI & Machine Learning Engineer** specialized in creating end-to-end in
 │                                                                      │
 └──────────────────────────────────────────────────────────────────────┘
 ```
-
----
-
-# `~/github/stats`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=RaiFarhan0&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" width="49%" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaiFarhan0&layout=compact&theme=github_dark&hide_border=true" width="49%" alt="Top Languages" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=RaiFarhan0&theme=github-dark-blue&hide_border=true" width="98%" alt="GitHub Streak" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RaiFarhan0&theme=github-compact&hide_border=true&area=true" width="98%" alt="Activity Graph" />
-
-</div>
 
 ---
 
