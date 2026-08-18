@@ -1,6 +1,5 @@
 <div align="center">
 
-#
 
 ```text
 ██████╗  █████╗ ██╗    ███████╗ █████╗ ██████╗ ██╗  ██╗ █████╗ ███╗   ██╗
@@ -42,18 +41,18 @@
 │                          SYSTEM INFORMATION                          │
 ├──────────────────────────────────────────────────────────────────────┤
 │                                                                      │
-│  USER          : Rai Farhan                                         │
-│  ROLE          : AI / Machine Learning Engineer                     │
-│  SPECIALIZATION: Computer Vision • Multimodal AI • Agentic Systems  │
-│  LOCATION      : Pakistan 🇵🇰                                       │
+│  USER          : Rai Farhan                                          │
+│  ROLE          : AI / Machine Learning Engineer                      │
+│  SPECIALIZATION: Computer Vision • Multimodal AI • Agentic Systems   │
+│  LOCATION      : Pakistan 🇵🇰                                         │
 │                                                                      │
-│  CORE STACK    : Python • PyTorch • OpenCV • MediaPipe • ONNX       │
+│  CORE STACK    : Python • PyTorch • OpenCV • MediaPipe • ONNX        │
 │  LLM / AGENTS  : Google Gemini • Vision RAG • Autonomous Workflows   │
-│  BACKEND       : FastAPI • WebSockets • REST APIs                   │
-│  INFRA & OPS   : Docker • Git • Linux • Low-Latency Inference       │
+│  BACKEND       : FastAPI • WebSockets • REST APIs                    │
+│  INFRA & OPS   : Docker • Git • Linux • Low-Latency Inference        │
 │                                                                      │
-│  STATUS        : Building & Deploying                               │
-│  MISSION       : Turn cutting-edge AI into reliable software        │
+│  STATUS        : Building & Deploying                                │
+│  MISSION       : Turn cutting-edge AI into reliable software         │
 │                                                                      │
 └──────────────────────────────────────────────────────────────────────┘
 ```
@@ -124,21 +123,21 @@ I am an **AI & Machine Learning Engineer** specialized in creating end-to-end in
 │                          AREAS OF EXPERTISE                          │
 ├──────────────────────────────────────────────────────────────────────┤
 │                                                                      │
-│  👁️  COMPUTER VISION                                                │
-│      Image processing, hand/pose tracking, gesture recognition,     │
-│      and edge-optimized real-time inference pipelines.              │
+│  👁️  COMPUTER VISION                                                 │
+│      Image processing, hand/pose tracking, gesture recognition,      │
+│      and edge-optimized real-time inference pipelines.               │
 │                                                                      │
 │  📑  MULTIMODAL AI & VISION RAG                                      │
 │      Integrating visual, audio, and textual streams for document     │
-│      intelligence and grounded multimodal retrieval.                │
+│      intelligence and grounded multimodal retrieval.                 │
 │                                                                      │
 │  🤖  AGENTIC SYSTEMS                                                 │
-│      Autonomous agent workflows, function calling, tool use,        │
-│      and self-correcting multi-agent reasoning.                     │
+│      Autonomous agent workflows, function calling, tool use,         │
+│      and self-correcting multi-agent reasoning.                      │
 │                                                                      │
 │  ⚡  PRODUCTION AI & STREAMING                                       │
-│      Low-latency inference with ONNX Runtime, FastAPI WebSockets,   │
-│      and containerized microservice deployments.                    │
+│      Low-latency inference with ONNX Runtime, FastAPI WebSockets,    │
+│      and containerized microservice deployments.                     │
 │                                                                      │
 └──────────────────────────────────────────────────────────────────────┘
 ```
@@ -182,8 +181,8 @@ I am an **AI & Machine Learning Engineer** specialized in creating end-to-end in
 │  ├── LLM Engineering & Structured Output Generation                  │
 │  ├── Multimodal Vision RAG & Video Understanding                     │
 │  ├── Autonomous Multi-Agent Orchestration                            │
-│  ├── High-Throughput & Quantized Model Serving (ONNX / TensorRT)    │
-│  └── Production-Grade Distributed AI Infrastructure                 │
+│  ├── High-Throughput & Quantized Model Serving (ONNX / TensorRT)     │
+│  └── Production-Grade Distributed AI Infrastructure                  │
 │                                                                      │
 └──────────────────────────────────────────────────────────────────────┘
 ```
