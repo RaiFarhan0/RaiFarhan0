@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=700&size=22&pause=1400&color=D4AF37&center=true&vCenter=true&width=700&lines=CASE+FILE%3A+RAI+FARHAN;STATUS%3A+ACTIVE+INVESTIGATION;CLEARANCE%3A+AI+%2F+ML+ENGINEER" alt="Typing SVG" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0B0F,50:1A1A22,100:D4AF37&height=220&section=header&text=CASE%20FILE%3A%20RAI%20FARHAN&fontSize=42&fontColor=D4AF37&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20—%20Active%20Investigation&descAlignY=58&descSize=18&animation=fadeIn" alt="header banner"/>
 
-<br>
-
-`FILE No. 0X4C — OPENED 2024 — STILL OPEN`
+<img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=700&size=20&pause=1400&color=D4AF37&center=true&vCenter=true&width=700&lines=STATUS%3A+ACTIVE+INVESTIGATION;CLEARANCE%3A+COMPUTER+VISION+%2F+AGENTS+%2F+AUDIO;FILE+No.+0X4C+—+OPENED+2024+—+STILL+OPEN" alt="Typing SVG" />
 
 </div>
 
@@ -69,6 +67,31 @@ ASSOCIATES
 <br>
 
 *Full case files (architecture, stack, results) documented in each repository.*
+
+---
+
+<br>
+
+<div align="center">
+
+## SURVEILLANCE FOOTAGE — LIVE ACTIVITY
+
+<img src="https://github-readme-stats.vercel.app/api?username=RaiFarhan0&show_icons=true&hide_border=true&bg_color=0B0B0F&title_color=D4AF37&icon_color=D4AF37&text_color=E5E5E5&ring_color=D4AF37" width="48%" alt="GitHub Stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RaiFarhan0&hide_border=true&background=0B0B0F&stroke=D4AF37&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&sideLabels=E5E5E5&currStreakNum=E5E5E5&sideNums=E5E5E5&dates=8A8A8A" width="48%" alt="Streak Stats"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaiFarhan0&layout=compact&hide_border=true&bg_color=0B0B0F&title_color=D4AF37&text_color=E5E5E5&langs_count=8" width="48%" alt="Top Languages"/>
+
+<br><br>
+
+### THE TRAIL — CONTRIBUTION SNAKE
+
+<img src="https://raw.githubusercontent.com/RaiFarhan0/RaiFarhan0/output/snake-dark.svg" width="90%" alt="contribution snake"/>
+
+<sub>*(auto-generates once the snake workflow below is added to this repo)*</sub>
+
+</div>
+
+<br>
 
 ---
 
