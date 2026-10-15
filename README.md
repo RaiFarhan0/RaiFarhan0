@@ -1,355 +1,292 @@
  <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,40:111111,75:292218,100:B8944D&height=260&section=header&text=RAI%20FARHAN&fontSize=62&fontColor=E5C47B&fontAlignY=36&desc=AI%20%2F%20ML%20ENGINEER%20%E2%80%A2%20INTELLIGENT%20SYSTEMS&descSize=15&descAlignY=57&animation=fadeIn" alt="Rai Farhan — AI/ML Engineer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=08090D&height=12&section=header" alt="Minimal header"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3200&pause=1000&color=D6B76A&center=true&vCenter=true&width=700&lines=I+BUILD+SYSTEMS%2C+NOT+JUST+DEMOS.;COMPUTER+VISION+%2F+MACHINE+LEARNING;AI+AGENTS+%2F+AUDIO+INTELLIGENCE;EXPERIMENT.+ENGINEER.+ITERATE." alt="Animated engineering tagline"/>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=13&duration=2500&pause=900&color=6C8CFF&center=true&vCenter=true&width=600&lines=INDEPENDENT+AI+ENGINEER;COMPUTER+VISION+%2F+MACHINE+LEARNING;BUILDING+BEYOND+THE+PROMPT" alt="Animated introduction"/>
+
+# Rai Farhan<span>.</span>
+
+### I build AI systems that do more than generate text.
+
+<p>
+  Computer Vision&nbsp; / &nbsp;Machine Learning&nbsp; / &nbsp;AI Agents&nbsp; / &nbsp;Audio AI
+</p>
+
+<br/>
+
+<a href="https://github.com/RaiFarhan0"><img src="https://img.shields.io/badge/EXPLORE%20GITHUB-6C8CFF?style=for-the-badge&logo=github&logoColor=08090D" alt="Explore GitHub"/></a>
 
 <br/><br/>
 
-<a href="https://github.com/RaiFarhan0"><img src="https://img.shields.io/badge/GITHUB-RAIFARHAN0-D6B76A?style=for-the-badge&logo=github&logoColor=0B0B0B" alt="GitHub"/></a>
-<img src="https://img.shields.io/badge/FOCUS-ARTIFICIAL%20INTELLIGENCE-181818?style=for-the-badge&labelColor=181818&color=181818" alt="Artificial intelligence"/>
-<img src="https://img.shields.io/badge/ORIGIN-PAKISTAN-181818?style=for-the-badge&labelColor=181818&color=181818" alt="Pakistan"/>
-
-<br/><br/>
-
-<sub>INDEPENDENT DEVELOPER · MACHINE LEARNING · APPLIED AI</sub>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=6C8CFF&height=1&section=header" alt="Blue divider"/>
 
 </div>
 
----
+<br/>
 
-<div align="center">
+<table>
+<tr>
+<td width="60%" valign="top">
 
-<sub>01 / THE ENGINEER</sub>
+## The big picture.
 
-# Intelligence, engineered.
+I'm Rai Farhan, an AI/ML developer interested in building intelligent systems that connect machine learning research with practical software engineering.
 
-</div>
+From visual perception to speech pipelines and tool-using AI agents, I enjoy working on the entire process: understanding the problem, experimenting with models, engineering the pipeline, and turning it into something usable.
 
-I'm **Rai Farhan**, an AI/ML developer focused on exploring how intelligent systems perceive information, learn patterns, process language and audio, and solve practical problems.
+**Less hype. More engineering.**
 
-I work across the intersection of machine learning, computer vision, AI agents, and application engineering. My interest goes beyond getting a model to produce an output. I care about the pipeline behind it: the data, architecture, inference, evaluation, constraints, and the engineering decisions that make a system useful.
+</td>
+<td width="40%" valign="top">
 
-I believe good AI engineering is a balance of **technical depth, practical execution, and measurable results.**
+### `PROFILE.TXT`
 
-```python
-class Engineer:
-    name = "Rai Farhan"
-    domain = "Artificial Intelligence"
+```yaml
+name: Rai Farhan
+role: AI/ML Engineer
+based_in: Pakistan
 
-    interests = [
-        "Computer Vision",
-        "Machine Learning",
-        "Intelligent Agents",
-        "Audio AI",
-        "Efficient Inference",
-    ]
+interests:
+  - Computer Vision
+  - Deep Learning
+  - AI Agents
+  - Audio Intelligence
 
-    philosophy = "Understand → Build → Evaluate → Improve"
+mindset: Build and iterate
 ```
 
-<div align="center">
+</td>
+</tr>
+</table>
 
-[Explore my repositories](https://github.com/RaiFarhan0?tab=repositories) · [Connect on GitHub](https://github.com/RaiFarhan0)
+<br/>
 
-</div>
-
----
-
-<div align="center">
-
-<sub>02 / THE DISCIPLINES</sub>
-
-# Areas of exploration
-
-*Different domains. One engineering mindset.*
-
-</div>
+## 01 — What I work on
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 01 — COMPUTER VISION
+<img src="https://img.shields.io/badge/01-6C8CFF?style=flat-square&labelColor=10131C&color=10131C" alt="01"/>
 
-**Giving machines a way to interpret visual information.**
+### Computer Vision
 
-- Image and video analysis
+Teaching machines to extract meaningful information from visual data.
+
+- Image and video understanding
 - Object detection and tracking
-- Pose estimation and motion analysis
-- Real-time inference pipelines
-- Vision model optimization
-
-`PERCEPTION` · `DETECTION` · `INFERENCE`
+- Pose estimation
+- Real-time inference
 
 </td>
 <td width="50%" valign="top">
 
-### 02 — MACHINE LEARNING
+<img src="https://img.shields.io/badge/02-6C8CFF?style=flat-square&labelColor=10131C&color=10131C" alt="02"/>
 
-**Turning data and experimentation into useful models.**
+### Machine Learning
 
-- Deep learning architectures
+Exploring models, experiments, and the engineering behind reliable predictions.
+
+- Deep learning
 - Model training and evaluation
-- Data preprocessing and analysis
-- Representation learning
-- Experiment reproducibility
-
-`LEARNING` · `EVALUATION` · `OPTIMIZATION`
+- Data pipelines
+- Performance optimization
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 03 — INTELLIGENT SYSTEMS
+<img src="https://img.shields.io/badge/03-6C8CFF?style=flat-square&labelColor=10131C&color=10131C" alt="03"/>
 
-**Connecting models, tools, and workflows into complete applications.**
+### AI Agents
 
-- LLM-powered applications
-- AI agent workflows
+Connecting models, tools, and external systems into useful workflows.
+
+- LLM applications
 - Retrieval-augmented generation
-- Tool integration and automation
-- API-driven AI systems
-
-`REASONING` · `RETRIEVAL` · `AUTOMATION`
+- Tool integration
+- Intelligent automation
 
 </td>
 <td width="50%" valign="top">
 
-### 04 — AUDIO INTELLIGENCE
+<img src="https://img.shields.io/badge/04-6C8CFF?style=flat-square&labelColor=10131C&color=10131C" alt="04"/>
 
-**Building pipelines around speech and sound.**
+### Audio Intelligence
+
+Building pipelines that work with speech, language, and audio.
 
 - Speech processing
-- Speech-to-text and text-to-speech
-- Translation and dubbing workflows
-- Audio pipeline integration
-- Local and resource-aware inference
-
-`SPEECH` · `TRANSLATION` · `DEPLOYMENT`
+- Speech synthesis
+- Translation and dubbing
+- Local inference
 
 </td>
 </tr>
 </table>
-
----
-
-<div align="center">
-
-<sub>03 / THE TOOLKIT</sub>
-
-# Technology & tools
-
-*The tools are part of the process. The solution is the point.*
-
-</div>
-
-### Languages
-
-<div align="left">
-<img src="https://skillicons.dev/icons?i=python,cpp,js,ts,html,css&theme=dark" alt="Programming languages"/>
-</div>
-
-### Machine learning & computer vision
-
-<div align="left">
-<img src="https://skillicons.dev/icons?i=pytorch,opencv&theme=dark" alt="Machine learning and computer vision tools"/>
-</div>
-
-**Additional areas:** NumPy, Pandas, scikit-learn, MediaPipe, ONNX Runtime, and TensorFlow Lite.
-
-### Backend & application engineering
-
-<div align="left">
-<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express,react,nextjs&theme=dark" alt="Backend and application development"/>
-</div>
-
-### Development & infrastructure
-
-<div align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,bash&theme=dark" alt="Development tools and infrastructure"/>
-</div>
-
-**Also interested in:** REST APIs, local model serving, inference optimization, and hardware-aware deployment.
-
-<sub>Tools and frameworks listed here reflect my areas of work and technical interests; not every tool is used in every project.</sub>
-
----
-
-<div align="center">
-
-<sub>04 / ENGINEERING NOTES</sub>
-
-# How I approach a problem
-
-</div>
-
-<table>
-<tr>
-<td width="72" align="center"><strong>01</strong></td>
-<td>
-
-**Understand before building**
-
-Define the problem, identify constraints, and choose an approach based on the actual requirements.
-
-</td>
-</tr>
-<tr>
-<td align="center"><strong>02</strong></td>
-<td>
-
-**Build with intention**
-
-Choose the simplest architecture that can solve the problem without creating unnecessary complexity.
-
-</td>
-</tr>
-<tr>
-<td align="center"><strong>03</strong></td>
-<td>
-
-**Validate with evidence**
-
-Test assumptions, inspect outputs, evaluate performance, and distinguish working results from promising ideas.
-
-</td>
-</tr>
-<tr>
-<td align="center"><strong>04</strong></td>
-<td>
-
-**Respect real-world constraints**
-
-Consider latency, memory, compute requirements, reliability, and maintainability—not just whether a demo runs.
-
-</td>
-</tr>
-<tr>
-<td align="center"><strong>05</strong></td>
-<td>
-
-**Iterate relentlessly**
-
-Use failures as information. Improve the implementation, measure the difference, and repeat.
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-<sub>05 / THE WORKBENCH</sub>
-
-# Current direction
-
-*Exploring the space between research and practical engineering.*
-
-</div>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**/ LOCAL-FIRST AI**
-
-Exploring AI systems that can run locally, reduce unnecessary cloud dependencies, and work within realistic hardware limits.
-
-</td>
-<td width="50%" valign="top">
-
-**/ PERCEPTION SYSTEMS**
-
-Exploring computer vision pipelines that transform image and video inputs into meaningful, structured information.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**/ AGENTIC WORKFLOWS**
-
-Exploring how language models, tools, retrieval, and specialized components can work together in reliable applications.
-
-</td>
-<td width="50%" valign="top">
-
-**/ EFFICIENT INFERENCE**
-
-Exploring practical deployment strategies for reducing computational overhead while preserving useful model performance.
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-<sub>Research is useful. Working implementations are better. Measured improvements are best.</sub>
-
-</div>
-
----
-
-<div align="center">
-
-<sub>06 / BEYOND THE MODEL</sub>
-
-# The engineering mindset
-
-</div>
-
-```text
-┌──────────────────────────────────────────────────────┐
-│                                                      │
-│   QUESTION THE ASSUMPTION.                           │
-│   UNDERSTAND THE SYSTEM.                             │
-│   MEASURE WHAT MATTERS.                              │
-│   BUILD WHAT IS USEFUL.                              │
-│                                                      │
-└──────────────────────────────────────────────────────┘
-```
-
-I'm particularly interested in projects where AI meets real engineering constraints: limited compute, noisy data, inference latency, complicated integrations, and the difference between an interesting experiment and a dependable application.
-
-The goal isn't to add AI to everything.
-
-**The goal is to make intelligent systems genuinely useful.**
-
----
-
-<div align="center">
-
-<sub>07 / OPEN CHANNEL</sub>
-
-# Let's connect.
-
-Interested in AI engineering, computer vision, machine learning, intelligent automation, or building something technically challenging?
-
-Feel free to explore my repositories or connect with me.
 
 <br/>
 
-<a href="https://github.com/RaiFarhan0"><img src="https://img.shields.io/badge/GITHUB-EXPLORE%20REPOSITORIES-D6B76A?style=for-the-badge&logo=github&logoColor=0B0B0B" alt="Explore GitHub repositories"/></a>
+## 02 — My engineering stack
 
-<a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-181818?style=for-the-badge&logo=linkedin&logoColor=D6B76A" alt="LinkedIn"/></a>
+<div align="center">
 
-<br/><br/>
+### LANGUAGES
 
-<a href="mailto:raifarhan003@gmail.com"><img src="https://img.shields.io/badge/EMAIL-GET%20IN%20TOUCH-181818?style=for-the-badge&logo=gmail&logoColor=D6B76A" alt="Email"/></a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=RaiFarhan0&label=PROFILE%20VISITS&color=D6B76A&style=flat-square" alt="Profile visit counter"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,js,ts&theme=dark" alt="Python, C++, JavaScript and TypeScript"/>
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:B8944D,45:171717,100:050505&height=120&section=footer" alt="Gold and black footer"/>
+### AI / ML
 
-<sub>BUILT WITH CURIOSITY. REFINED THROUGH ENGINEERING.</sub>
+<img src="https://skillicons.dev/icons?i=pytorch,opencv&theme=dark" alt="PyTorch and OpenCV"/>
+
+<br/><br/>
+
+### APPLICATION ENGINEERING
+
+<img src="https://skillicons.dev/icons?i=fastapi,flask,react,nodejs,nextjs,docker,git,github,vscode&theme=dark" alt="Application engineering tools"/>
+
+</div>
+
+<p align="center">
+<sub>Additional interests: NumPy, Pandas, scikit-learn, MediaPipe, ONNX Runtime, and TensorFlow Lite.</sub>
+</p>
+
+<br/>
+
+## 03 — The process
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+**01**
+
+### Understand
+
+<sub>Define the actual problem.</sub>
+
+</td>
+<td align="center" width="25%">
+
+**02**
+
+### Experiment
+
+<sub>Test ideas and models.</sub>
+
+</td>
+<td align="center" width="25%">
+
+**03**
+
+### Engineer
+
+<sub>Build the complete system.</sub>
+
+</td>
+<td align="center" width="25%">
+
+**04**
+
+### Evaluate
+
+<sub>Measure, improve, repeat.</sub>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+I care about the details that separate an interesting demo from a useful application: latency, memory consumption, data quality, evaluation, maintainability, and how everything works together.
+
+```python
+def engineering_loop(problem):
+    solution = understand(problem)
+
+    while not validated(solution):
+        prototype = experiment(solution)
+        solution = improve(prototype)
+
+    return solution
+```
+
+<br/>
+
+## 04 — Currently exploring
+
+<details>
+<summary><strong>LOCAL-FIRST AI</strong> — Running useful models with fewer cloud dependencies</summary>
+
+Exploring local inference, efficient model execution, and pipelines that work within realistic hardware constraints.
+
+</details>
+
+<details>
+<summary><strong>VISION SYSTEMS</strong> — Making visual information actionable</summary>
+
+Exploring computer vision workflows for image understanding, video analysis, and real-time perception.
+
+</details>
+
+<details>
+<summary><strong>AGENTIC SOFTWARE</strong> — Connecting models with tools and workflows</summary>
+
+Exploring applications where LLMs, retrieval, APIs, and specialized components work together.
+
+</details>
+
+<details>
+<summary><strong>AUDIO PIPELINES</strong> — Speech processing from input to output</summary>
+
+Exploring speech synthesis, translation, dubbing, and resource-aware audio processing.
+
+</details>
+
+<br/>
+
+## 05 — Beyond the buzzwords
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=10131C&height=150&section=header&text=MAKE%20IT%20WORK.&fontSize=34&fontColor=F4F5F7&fontAlignY=38&desc=THEN%20MAKE%20IT%20BETTER.&descSize=15&descColor=6C8CFF&descAlignY=68" alt="Engineering philosophy"/>
+
+</div>
+
+I don't believe every problem needs AI. I believe the right problem, the right approach, and careful execution matter more than a fashionable tech stack.
+
+My goal is to keep building, keep learning, and get better at turning complex ideas into working systems.
+
+<br/>
+
+## 06 — Find me online
+
+<div align="center">
+
+<a href="https://github.com/RaiFarhan0"><img src="https://img.shields.io/badge/GITHUB-Explore%20my%20work-6C8CFF?style=for-the-badge&logo=github&logoColor=08090D" alt="GitHub"/></a>
+<a href="mailto:raifarhan003@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Say%20hello-181B25?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="Email"/></a>
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LINKEDIN-Connect-181B25?style=flat-square&logo=linkedin&logoColor=6C8CFF" alt="LinkedIn"/></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=RaiFarhan0&label=VISITORS&color=6C8CFF&style=flat-square" alt="Profile visitors"/>
+
+<br/><br/>
+
+<sub>DESIGNED AROUND CURIOSITY. BUILT THROUGH ITERATION.</sub>
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=6C8CFF&height=3&section=footer" alt="Footer accent"/>
 
 </div>
